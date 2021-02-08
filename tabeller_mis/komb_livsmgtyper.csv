@@ -1,0 +1,361 @@
+livsmk;htypek;gtypek;grunntype
+1;T4;T4-C-1;T4-C-01 blåbærskog
+1;T4;T4-C-2;T4-C-02 svak lågurtskog
+1;T4;T4-C-3;T4-C-03 lågurtskog
+1;T4;T4-C-4;T4-C-04 kalklågurtskog
+1;T4;T4-C-5;T4-C-05 bærlyngskog
+1;T4;T4-C-6;T4-C-06 svak bærlyng-lågurtskog
+1;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+1;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+1;T4;T4-C-9;T4-C-09 lyngskog
+1;T4;T4-C-10;T4-C-10 svak lyng-lågurtskog
+1;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+1;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+1;T4;T4-C-13;T4-C-13 lavskog
+1;T4;T4-C-14;T4-C-14 svak lav-lågurtskog
+1;T4;T4-C-15;T4-C-15 lav-lågurtskog
+1;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+1;T4;T4-C-17;T4-C-17 storbregneskog
+1;T4;T4-C-18;T4-C-18 høgstaudeskog
+1;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+1;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+1;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+1;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+1;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+1;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+1;T32;T32-C-1;T32-C-01 kalkfattig eng med mindre hevdpreg
+1;T32;T32-C-2;T32-C-02 kalkfattig eng med klart hevdpreg
+1;T32;T32-C-3;T32-C-03 intermediær eng med mindre hevdpreg
+1;T32;T32-C-4;T32-C-04 intermediær eng med klart hevdpreg
+1;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+1;T32;T32-C-6;T32-C-06 intermediær eng med svakt preg av gjødsling
+1;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+1;T32;T32-C-8;T32-C-08 sterkt kalkrik eng med klart hevdpreg
+1;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+1;T32;T32-C-10;T32-C-10 kalkrik fukteng med klart hevdpreg og svakt preg av gjødsling
+1;T32;T32-C-11;T32-C-11 kalkfattig tørreng med mindre hevdpreg
+1;T32;T32-C-12;T32-C-12 kalkfattig tørreng med klart hevdpreg
+1;T32;T32-C-13;T32-C-13 intermediær tørreng med mindre hevdpreg
+1;T32;T32-C-14;T32-C-14 intermediær tørreng med klart hevdpreg eller svakt preg av gjødsling
+1;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+1;T32;T32-C-16;T32-C-16 svakt kalkrik tørreng med klart hevdpreg eller svakt preg av gjødsling
+1;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+1;T32;T32-C-18;T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+1;T32;T32-C-19;T32-C-19 sanddyne-eng med klart hevdpreg eller svakt preg av gjødsling
+1;T32;T32-C-20;T32-C-20 svakt kalkrik eng med klart hevdpreg
+1;T32;T32-C-21;T32-C-21 svakt kalkrik eng med svakt preg av gjødsling
+1;V2;V2-C-1;V2-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+1;V2;V2-C-2;V2-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+1;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+1;V4;V4-C-1;V4-C-1 litt kalkfattig og svakt intermediær svakkilde
+1;V4;V4-C-2;V4-C-2 sterkt intermediære og litt kalkrike kilder
+1;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+1;V4;V4-C-4;V4-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+1;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+1;V8;V8-C-1;V8-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+1;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
+1;V8;V8-C-3;V8-C-3 saltpåvirket strand- og sumpskogsmark
+2;T4;T4-C-1;T4-C-01 blåbærskog
+2;T4;T4-C-2;T4-C-02 svak lågurtskog
+2;T4;T4-C-3;T4-C-03 lågurtskog
+2;T4;T4-C-4;T4-C-04 kalklågurtskog
+2;T4;T4-C-5;T4-C-05 bærlyngskog
+2;T4;T4-C-6;T4-C-06 svak bærlyng-lågurtskog
+2;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+2;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+2;T4;T4-C-9;T4-C-09 lyngskog
+2;T4;T4-C-10;T4-C-10 svak lyng-lågurtskog
+2;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+2;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+2;T4;T4-C-13;T4-C-13 lavskog
+2;T4;T4-C-14;T4-C-14 svak lav-lågurtskog
+2;T4;T4-C-15;T4-C-15 lav-lågurtskog
+2;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+2;T4;T4-C-17;T4-C-17 storbregneskog
+2;T4;T4-C-18;T4-C-18 høgstaudeskog
+2;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+2;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+2;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+2;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+2;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+2;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+2;T32;T32-C-1;T32-C-01 kalkfattig eng med mindre hevdpreg
+2;T32;T32-C-2;T32-C-02 kalkfattig eng med klart hevdpreg
+2;T32;T32-C-3;T32-C-03 intermediær eng med mindre hevdpreg
+2;T32;T32-C-4;T32-C-04 intermediær eng med klart hevdpreg
+2;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+2;T32;T32-C-6;T32-C-06 intermediær eng med svakt preg av gjødsling
+2;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+2;T32;T32-C-8;T32-C-08 sterkt kalkrik eng med klart hevdpreg
+2;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+2;T32;T32-C-10;T32-C-10 kalkrik fukteng med klart hevdpreg og svakt preg av gjødsling
+2;T32;T32-C-11;T32-C-11 kalkfattig tørreng med mindre hevdpreg
+2;T32;T32-C-12;T32-C-12 kalkfattig tørreng med klart hevdpreg
+2;T32;T32-C-13;T32-C-13 intermediær tørreng med mindre hevdpreg
+2;T32;T32-C-14;T32-C-14 intermediær tørreng med klart hevdpreg eller svakt preg av gjødsling
+2;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+2;T32;T32-C-16;T32-C-16 svakt kalkrik tørreng med klart hevdpreg eller svakt preg av gjødsling
+2;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+2;T32;T32-C-18;T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+2;T32;T32-C-19;T32-C-19 sanddyne-eng med klart hevdpreg eller svakt preg av gjødsling
+2;T32;T32-C-20;T32-C-20 svakt kalkrik eng med klart hevdpreg
+2;T32;T32-C-21;T32-C-21 svakt kalkrik eng med svakt preg av gjødsling
+2;V2;V2-C-1;V2-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+2;V2;V2-C-2;V2-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+2;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+2;V4;V4-C-1;V4-C-1 litt kalkfattig og svakt intermediær svakkilde
+2;V4;V4-C-2;V4-C-2 sterkt intermediære og litt kalkrike kilder
+2;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+2;V4;V4-C-4;V4-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+2;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+2;V8;V8-C-1;V8-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+2;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
+2;V8;V8-C-3;V8-C-3 saltpåvirket strand- og sumpskogsmark
+3;T4;T4-C-1;T4-C-01 blåbærskog
+3;T4;T4-C-2;T4-C-02 svak lågurtskog
+3;T4;T4-C-3;T4-C-03 lågurtskog
+3;T4;T4-C-4;T4-C-04 kalklågurtskog
+3;T4;T4-C-5;T4-C-05 bærlyngskog
+3;T4;T4-C-6;T4-C-06 svak bærlyng-lågurtskog
+3;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+3;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+3;T4;T4-C-9;T4-C-09 lyngskog
+3;T4;T4-C-10;T4-C-10 svak lyng-lågurtskog
+3;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+3;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+3;T4;T4-C-13;T4-C-13 lavskog
+3;T4;T4-C-14;T4-C-14 svak lav-lågurtskog
+3;T4;T4-C-15;T4-C-15 lav-lågurtskog
+3;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+3;T4;T4-C-17;T4-C-17 storbregneskog
+3;T4;T4-C-18;T4-C-18 høgstaudeskog
+3;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+3;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+3;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+3;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+3;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+3;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+3;T32;T32-C-1;T32-C-01 kalkfattig eng med mindre hevdpreg
+3;T32;T32-C-2;T32-C-02 kalkfattig eng med klart hevdpreg
+3;T32;T32-C-3;T32-C-03 intermediær eng med mindre hevdpreg
+3;T32;T32-C-4;T32-C-04 intermediær eng med klart hevdpreg
+3;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+3;T32;T32-C-6;T32-C-06 intermediær eng med svakt preg av gjødsling
+3;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+3;T32;T32-C-8;T32-C-08 sterkt kalkrik eng med klart hevdpreg
+3;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+3;T32;T32-C-10;T32-C-10 kalkrik fukteng med klart hevdpreg og svakt preg av gjødsling
+3;T32;T32-C-11;T32-C-11 kalkfattig tørreng med mindre hevdpreg
+3;T32;T32-C-12;T32-C-12 kalkfattig tørreng med klart hevdpreg
+3;T32;T32-C-13;T32-C-13 intermediær tørreng med mindre hevdpreg
+3;T32;T32-C-14;T32-C-14 intermediær tørreng med klart hevdpreg eller svakt preg av gjødsling
+3;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+3;T32;T32-C-16;T32-C-16 svakt kalkrik tørreng med klart hevdpreg eller svakt preg av gjødsling
+3;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+3;T32;T32-C-18;T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+3;T32;T32-C-19;T32-C-19 sanddyne-eng med klart hevdpreg eller svakt preg av gjødsling
+3;T32;T32-C-20;T32-C-20 svakt kalkrik eng med klart hevdpreg
+3;T32;T32-C-21;T32-C-21 svakt kalkrik eng med svakt preg av gjødsling
+3;V2;V2-C-1;V2-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+3;V2;V2-C-2;V2-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+3;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+3;V4;V4-C-1;V4-C-1 litt kalkfattig og svakt intermediær svakkilde
+3;V4;V4-C-2;V4-C-2 sterkt intermediære og litt kalkrike kilder
+3;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+3;V4;V4-C-4;V4-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+3;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+3;V8;V8-C-1;V8-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+3;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
+3;V8;V8-C-3;V8-C-3 saltpåvirket strand- og sumpskogsmark
+4;T4;T4-C-1;T4-C-01 blåbærskog
+4;T4;T4-C-2;T4-C-02 svak lågurtskog
+4;T4;T4-C-3;T4-C-03 lågurtskog
+4;T4;T4-C-4;T4-C-04 kalklågurtskog
+4;T4;T4-C-5;T4-C-05 bærlyngskog
+4;T4;T4-C-6;T4-C-06 svak bærlyng-lågurtskog
+4;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+4;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+4;T4;T4-C-9;T4-C-09 lyngskog
+4;T4;T4-C-10;T4-C-10 svak lyng-lågurtskog
+4;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+4;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+4;T4;T4-C-13;T4-C-13 lavskog
+4;T4;T4-C-14;T4-C-14 svak lav-lågurtskog
+4;T4;T4-C-15;T4-C-15 lav-lågurtskog
+4;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+4;T4;T4-C-17;T4-C-17 storbregneskog
+4;T4;T4-C-18;T4-C-18 høgstaudeskog
+4;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+4;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+4;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+4;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+4;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+4;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+4;T32;T32-C-1;T32-C-01 kalkfattig eng med mindre hevdpreg
+4;T32;T32-C-2;T32-C-02 kalkfattig eng med klart hevdpreg
+4;T32;T32-C-3;T32-C-03 intermediær eng med mindre hevdpreg
+4;T32;T32-C-4;T32-C-04 intermediær eng med klart hevdpreg
+4;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+4;T32;T32-C-6;T32-C-06 intermediær eng med svakt preg av gjødsling
+4;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+4;T32;T32-C-8;T32-C-08 sterkt kalkrik eng med klart hevdpreg
+4;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+4;T32;T32-C-10;T32-C-10 kalkrik fukteng med klart hevdpreg og svakt preg av gjødsling
+4;T32;T32-C-11;T32-C-11 kalkfattig tørreng med mindre hevdpreg
+4;T32;T32-C-12;T32-C-12 kalkfattig tørreng med klart hevdpreg
+4;T32;T32-C-13;T32-C-13 intermediær tørreng med mindre hevdpreg
+4;T32;T32-C-14;T32-C-14 intermediær tørreng med klart hevdpreg eller svakt preg av gjødsling
+4;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+4;T32;T32-C-16;T32-C-16 svakt kalkrik tørreng med klart hevdpreg eller svakt preg av gjødsling
+4;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+4;T32;T32-C-18;T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+4;T32;T32-C-19;T32-C-19 sanddyne-eng med klart hevdpreg eller svakt preg av gjødsling
+4;T32;T32-C-20;T32-C-20 svakt kalkrik eng med klart hevdpreg
+4;T32;T32-C-21;T32-C-21 svakt kalkrik eng med svakt preg av gjødsling
+4;V2;V2-C-1;V2-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+4;V2;V2-C-2;V2-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+4;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+4;V4;V4-C-1;V4-C-1 litt kalkfattig og svakt intermediær svakkilde
+4;V4;V4-C-2;V4-C-2 sterkt intermediære og litt kalkrike kilder
+4;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+4;V4;V4-C-4;V4-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+4;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+4;V8;V8-C-1;V8-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+4;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
+4;V8;V8-C-3;V8-C-3 saltpåvirket strand- og sumpskogsmark
+5;T4;T4-C-1;T4-C-01 blåbærskog
+5;T4;T4-C-2;T4-C-02 svak lågurtskog
+5;T4;T4-C-3;T4-C-03 lågurtskog
+5;T4;T4-C-4;T4-C-04 kalklågurtskog
+5;T4;T4-C-5;T4-C-05 bærlyngskog
+5;T4;T4-C-6;T4-C-06 svak bærlyng-lågurtskog
+5;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+5;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+5;T4;T4-C-9;T4-C-09 lyngskog
+5;T4;T4-C-10;T4-C-10 svak lyng-lågurtskog
+5;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+5;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+5;T4;T4-C-13;T4-C-13 lavskog
+5;T4;T4-C-14;T4-C-14 svak lav-lågurtskog
+5;T4;T4-C-15;T4-C-15 lav-lågurtskog
+5;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+5;T4;T4-C-17;T4-C-17 storbregneskog
+5;T4;T4-C-18;T4-C-18 høgstaudeskog
+5;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+5;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+5;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+5;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+5;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+5;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+5;T32;T32-C-1;T32-C-01 kalkfattig eng med mindre hevdpreg
+5;T32;T32-C-2;T32-C-02 kalkfattig eng med klart hevdpreg
+5;T32;T32-C-3;T32-C-03 intermediær eng med mindre hevdpreg
+5;T32;T32-C-4;T32-C-04 intermediær eng med klart hevdpreg
+5;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+5;T32;T32-C-6;T32-C-06 intermediær eng med svakt preg av gjødsling
+5;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+5;T32;T32-C-8;T32-C-08 sterkt kalkrik eng med klart hevdpreg
+5;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+5;T32;T32-C-10;T32-C-10 kalkrik fukteng med klart hevdpreg og svakt preg av gjødsling
+5;T32;T32-C-11;T32-C-11 kalkfattig tørreng med mindre hevdpreg
+5;T32;T32-C-12;T32-C-12 kalkfattig tørreng med klart hevdpreg
+5;T32;T32-C-13;T32-C-13 intermediær tørreng med mindre hevdpreg
+5;T32;T32-C-14;T32-C-14 intermediær tørreng med klart hevdpreg eller svakt preg av gjødsling
+5;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+5;T32;T32-C-16;T32-C-16 svakt kalkrik tørreng med klart hevdpreg eller svakt preg av gjødsling
+5;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+5;T32;T32-C-18;T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+5;T32;T32-C-19;T32-C-19 sanddyne-eng med klart hevdpreg eller svakt preg av gjødsling
+5;T32;T32-C-20;T32-C-20 svakt kalkrik eng med klart hevdpreg
+5;T32;T32-C-21;T32-C-21 svakt kalkrik eng med svakt preg av gjødsling
+5;V2;V2-C-1;V2-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+5;V2;V2-C-2;V2-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+5;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+5;V4;V4-C-1;V4-C-1 litt kalkfattig og svakt intermediær svakkilde
+5;V4;V4-C-2;V4-C-2 sterkt intermediære og litt kalkrike kilder
+5;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+5;V4;V4-C-4;V4-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+5;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+5;V8;V8-C-1;V8-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+5;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
+5;V8;V8-C-3;V8-C-3 saltpåvirket strand- og sumpskogsmark
+6;T4;T4-C-1;T4-C-01 blåbærskog
+6;T4;T4-C-2;T4-C-02 svak lågurtskog
+6;T4;T4-C-3;T4-C-03 lågurtskog
+6;T4;T4-C-4;T4-C-04 kalklågurtskog
+6;T4;T4-C-5;T4-C-05 bærlyngskog
+6;T4;T4-C-6;T4-C-06 svak bærlyng-lågurtskog
+6;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+6;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+6;T4;T4-C-9;T4-C-09 lyngskog
+6;T4;T4-C-10;T4-C-10 svak lyng-lågurtskog
+6;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+6;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+6;T4;T4-C-13;T4-C-13 lavskog
+6;T4;T4-C-14;T4-C-14 svak lav-lågurtskog
+6;T4;T4-C-15;T4-C-15 lav-lågurtskog
+6;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+6;T4;T4-C-17;T4-C-17 storbregneskog
+6;T4;T4-C-18;T4-C-18 høgstaudeskog
+6;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+6;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+6;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+6;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+6;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+6;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+6;T32;T32-C-1;T32-C-01 kalkfattig eng med mindre hevdpreg
+6;T32;T32-C-2;T32-C-02 kalkfattig eng med klart hevdpreg
+6;T32;T32-C-3;T32-C-03 intermediær eng med mindre hevdpreg
+6;T32;T32-C-4;T32-C-04 intermediær eng med klart hevdpreg
+6;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+6;T32;T32-C-6;T32-C-06 intermediær eng med svakt preg av gjødsling
+6;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+6;T32;T32-C-8;T32-C-08 sterkt kalkrik eng med klart hevdpreg
+6;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+6;T32;T32-C-10;T32-C-10 kalkrik fukteng med klart hevdpreg og svakt preg av gjødsling
+6;T32;T32-C-11;T32-C-11 kalkfattig tørreng med mindre hevdpreg
+6;T32;T32-C-12;T32-C-12 kalkfattig tørreng med klart hevdpreg
+6;T32;T32-C-13;T32-C-13 intermediær tørreng med mindre hevdpreg
+6;T32;T32-C-14;T32-C-14 intermediær tørreng med klart hevdpreg eller svakt preg av gjødsling
+6;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+6;T32;T32-C-16;T32-C-16 svakt kalkrik tørreng med klart hevdpreg eller svakt preg av gjødsling
+6;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+6;T32;T32-C-18;T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+6;T32;T32-C-19;T32-C-19 sanddyne-eng med klart hevdpreg eller svakt preg av gjødsling
+6;T32;T32-C-20;T32-C-20 svakt kalkrik eng med klart hevdpreg
+6;T32;T32-C-21;T32-C-21 svakt kalkrik eng med svakt preg av gjødsling
+6;V2;V2-C-1;V2-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+6;V2;V2-C-2;V2-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+6;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+6;V4;V4-C-1;V4-C-1 litt kalkfattig og svakt intermediær svakkilde
+6;V4;V4-C-2;V4-C-2 sterkt intermediære og litt kalkrike kilder
+6;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+6;V4;V4-C-4;V4-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+6;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+6;V8;V8-C-1;V8-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+6;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
+6;V8;V8-C-3;V8-C-3 saltpåvirket strand- og sumpskogsmark
+9;T4;T4-C-3;T4-C-03 lågurtskog
+9;T4;T4-C-4;T4-C-04 kalklågurtskog
+9;T4;T4-C-7;T4-C-07 bærlyng-lågurtskog
+9;T4;T4-C-8;T4-C-08 bærlyng-kalklågurtskog
+9;T4;T4-C-11;T4-C-11 lyng-lågurtskog
+9;T4;T4-C-12;T4-C-12 lyng-kalklågurtskog
+9;T4;T4-C-15;T4-C-15 lav-lågurtskog
+9;T4;T4-C-16;T4-C-16 lav-kalklågurtskog
+9;T4;T4-C-18;T4-C-18 høgstaudeskog
+9;T4;T4-C-19;T4-C-19 litt tørkeutsatt høgstaudeskog
+9;T4;T4-C-20;T4-C-20 tørkeutsatt høgstaudeskog
+9;T30;T30-C-1;T30-C-1 flomskogsmarker på grus og stein
+9;T30;T30-C-2;T30-C-2 flomskogsmarker på finmateriale
+9;T30;T30-C-3;T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+9;T30;T30-C-4;T30-C-4 erosjonspreget flomskogsmark
+9;T32;T32-C-5;T32-C-05 svakt kalkrik eng med mindre hevdpreg
+9;T32;T32-C-7;T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+9;T32;T32-C-9;T32-C-09 kalkrik fukteng med mindre hevdpreg
+9;T32;T32-C-15;T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+9;T32;T32-C-17;T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+9;V2;V2-C-3;V2-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+9;V4;V4-C-3;V4-C-3 temmelig til ekstremt kalkrike kilder
+9;V4;V4-C-5;V4-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+9;V8;V8-C-2;V8-C-2 kalkrik strand- og sumpskogsmark
