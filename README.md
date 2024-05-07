@@ -7,4 +7,4 @@ The zipped QGIS project file [Eiker_MiS_NiN_e1.0.qgz](https://github.com/geco-nh
 * Subfolder [shp_mis](https://github.com/geco-nhm/NiN_Eiker/tree/main/shp_mis) holds the files of "Milgjøkartlegging i Skog". 
 * Tables and symbologies are contained in the respective folders. 
 
-The report which describes the mapping in detail is available through the [Report Series](https://www.nhm.uio.no/forskning/publikasjoner/nhm-rapporter/nhm-rapport-100-2021.pdf) of the Natural History Museum at UiO
+The report which describes the mapping in detail is available through the [Report Series](https://www.nhm.uio.no/forskning/ressurser/publikasjoner/nhm-rapporter/nhm-rapport-100-2021.pdf) of the Natural History Museum at UiO
